@@ -31,21 +31,21 @@ function checkIt() {
     // Form a message
     var message;
      if (max == char) {
-      title = "Which original starter Pokémon are you?"
+      title = "Which original starter Pok&eacute;mon are you?"
       heading = "You're a Charmander!"
-      message = "You are the fire type starter Pokémon from the Kanto region.  The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.";
+      message = "You are the fire type starter Pok&eacute;mon from the Kanto region.  The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.";
       resultimage = "<img src='img/charmander.jpg'>"
     }
     else if (max == squirt) {
-      title = "Which original starter Pokémon are you?"
+      title = "Which original starter Pok&eacute;mon are you?"
       heading = "You're a Squirtle!"
-      message = "You are the water type starter Pokémon from the Kanto region. Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.";
+      message = "You are the water type starter Pok&eacute;mon from the Kanto region. Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.";
       resultimage = "<img src='img/squirtle.jpg'>"
     }
     else if (max == bulb) {
-      title = "Which original starter Pokémon are you?"
+      title = "Which original starter Pok&eacute;mon are you?"
       heading = "You're a Bulbasaur!"
-      message = "You are the grass type starter Pokémon from the Kanto region. Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.";
+      message = "You are the grass type starter Pok&eacute;mon from the Kanto region. Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.";
       resultimage = "<img src='img/bulbasaur.jpg'>"
     }
 
