@@ -33,13 +33,13 @@ function checkIt() {
      if (max == char) {
       title = "Which original starter Pok&eacute;mon are you?"
       heading = "You're a Charmander!"
-      message = "You are the fire type starter Pok&eacute;mon from the Kanto region.  The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.";
+      message = "You are the fire type starter Pok&eacute;mon from the Kanto region.  The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pok&eacute;mon becomes enraged, the flame burns fiercely.";
       resultimage = "<img src='img/charmander.jpg'>"
     }
     else if (max == squirt) {
       title = "Which original starter Pok&eacute;mon are you?"
       heading = "You're a Squirtle!"
-      message = "You are the water type starter Pok&eacute;mon from the Kanto region. Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.";
+      message = "You are the water type starter Pok&eacute;mon from the Kanto region. Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pok&eacute;mon to swim at high speeds.";
       resultimage = "<img src='img/squirtle.jpg'>"
     }
     else if (max == bulb) {
